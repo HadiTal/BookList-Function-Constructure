@@ -1,0 +1,39 @@
+.valid {
+    border: solid 1px green
+}
+
+.invalid {
+    border: solid 1px red
+}
+
+.center {
+    text-align: center;
+}
+
+.delete-icon {
+    color: red;
+    cursor: pointer;
+}
+
+.diaplay-container-message {
+    display: none;
+}
+
+.message {
+    text-align: center;
+}
+
+.error-class {
+    background-color: red;
+    color: white;
+}
+
+.correct-class {
+    background-color: chartreuse;
+    color: black;
+}
+
+
+/*
+#E74C3C
+*/
